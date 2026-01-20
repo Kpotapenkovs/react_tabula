@@ -59,10 +59,6 @@ function Translate(){
       <td>*Vai</td>
     </tr>
 
-    *Funkcionālā iezīme == Funkcionālā prasība
-    <br></br>
-    rule (baigi neizmantosim)
-    
   </tbody>
 </table>
 
